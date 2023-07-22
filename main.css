@@ -1,0 +1,33 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    color: #EEEEEE;
+}
+body {
+    background-color: #00ADB5;
+    text-align: center;
+}
+
+.list-ortala {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.margin-a {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.stil-type {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+#sepet-button {
+    background-color: #222831;
+    color: #EEEEEE;
+    border-radius: 999px;
+}
+.about-section { 
+    text-align: left;
+   
+    
+}
